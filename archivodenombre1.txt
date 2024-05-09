@@ -1,0 +1,2 @@
+archivodenombre1
+soy el archivo al que le vas a cambiar de nombres
