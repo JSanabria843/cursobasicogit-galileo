@@ -1,3 +1,5 @@
 .env
 archivoaignorar.txt
 Carpetaignorada/
+logs/*
+!logs/archivodelogs3.log

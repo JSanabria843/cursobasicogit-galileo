@@ -1,2 +1,0 @@
-archivo a eliminar 2
-soy el segundo archivo que vas a eliminar
