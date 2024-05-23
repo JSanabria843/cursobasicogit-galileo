@@ -1,2 +1,0 @@
-Hola como estan 
-hoy vamos a aprender git diff
