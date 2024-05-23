@@ -1,3 +1,2 @@
-Hola
-como estas
-Hoy estoy aprendiendo git diff
+Hola como estan 
+hoy vamos a aprender git diff
