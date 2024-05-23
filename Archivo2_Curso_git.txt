@@ -3,3 +3,8 @@ Esta es una modificacion al archivo 2
 Hoy estoy aprendiendo el git diff
 Esta es mi segunda modificacion para git diff
 Estoy escribiendo en la linea 5
+Hola como estas
+segunda modificacion
+s
+s
+
