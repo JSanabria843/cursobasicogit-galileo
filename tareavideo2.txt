@@ -1,0 +1,3 @@
+Hola
+como estas
+Hoy estoy aprendiendo git diff
